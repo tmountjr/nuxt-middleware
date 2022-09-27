@@ -1,5 +1,9 @@
 <template>
-  <Calculator />
+  <div class="main">
+    <Calculator />
+    <hr>
+    <StatefulApi />
+  </div>
 </template>
 
 <script>
