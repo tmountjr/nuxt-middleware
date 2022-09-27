@@ -115,3 +115,5 @@ export default {
 ```
 
 Place the component in `pages/index.vue` and relaunch your dev environment using `npm run dev` or `yarn dev`. Note that you can open up `http://localhost:3000` in a new browser or an incognito window and the state is shared betwen the two devices.
+
+([Keep going](./ch3b.md))

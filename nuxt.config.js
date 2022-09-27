@@ -54,6 +54,5 @@ export default {
   },
 
   serverMiddleware: [
-    { path: '/state', handler: '@/serverMiddleware/state.js' }
   ]
 }
