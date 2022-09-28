@@ -1,3 +1,5 @@
+[< Chapter 3a](./ch3a.md) | Chapter 3b
+
 _(This version of the guide is deployed at https://tom-mount-nuxt-middleware-ch3b.layer0-limelight.link/)_
 
 Trying to migrate the Stateful API we just created to a serverless environment seems like it wouldn't work on the face of it - the requirement that in-memory storage not be destroyed from call to call means that this API won't work as intended if we simply migrated it to Edgio's serverless environment as-is. Suppose you tried this in `routes.js`:

@@ -1,3 +1,5 @@
+[< Chapter 2](./ch2.md) | Chapter 3a | [> Chapter 3b]('./ch3b.md')
+
 _(This version of the guide is deployed at https://tom-mount-nuxt-middleware-ch3a.layer0-limelight.link/)_
 
 In the [first](./ch1.md) [two](./ch2.md) chapters, we created a Calculator API using Nuxt.js's server middleare; built a frontend to see the results of the API calls; and then installed Edgio AppOps and migrated the Calculator API to Edgio's serverless infrastructure.
