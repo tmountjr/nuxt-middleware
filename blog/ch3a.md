@@ -1,3 +1,5 @@
+_(This version of the guide is deployed at https://tom-mount-nuxt-middleware-ch3a.layer0-limelight.link/)_
+
 In the [first](./ch1.md) [two](./ch2.md) chapters, we created a Calculator API using Nuxt.js's server middleare; built a frontend to see the results of the API calls; and then installed Edgio AppOps and migrated the Calculator API to Edgio's serverless infrastructure.
 
 In Chapter 2 we saw that there were some situations where server middleware routes might not work as serverless functions. In this chapter we'll build a small API that relies on maintaining in-memory state and see how we can refactor such an API to work as a serverless function.
