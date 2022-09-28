@@ -1,6 +1,6 @@
 [< Chapter 1](./ch1.md) | Chapter 2 | [Chapter 3a >](./ch3a.md)
 
-_This version of the guide is deployed at https://tom-mount-nuxt-middleware-ch2.layer0-limelight.link/_
+_(This version of the guide is deployed at https://tom-mount-nuxt-middleware-ch2.layer0-limelight.link/)_
 
 If you already have an application that makes use of a separate set of routes that serve up JSON or GraphQL content as part of an in-app API, then you're already aware of how powerful a toold is at your disposal. If you're considering a move to a Platform-as-a-Service (PaaS) hosting environment, you may find that there are some more options that are available to you for hosting your API, with some pros and cons.
 
