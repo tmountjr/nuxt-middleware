@@ -1,4 +1,4 @@
-Chapter 1 | [> Chapter 2](./ch2.md)
+Chapter 1 | [Chapter 2 >](./ch2.md)
 
 Traditionally, websites on hosting platforms are set up to consume data APIs, rather than host them. For example, an eCommerce website might call a "products" API from an eCommerce platform like Shopify; the platform returns a structured object that might contain the first ten products within a specific category, along with metadata like a product image URL, quantity available, and price.
 

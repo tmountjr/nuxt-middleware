@@ -1,4 +1,4 @@
-[< Chapter 2](./ch2.md) | Chapter 3a | [> Chapter 3b](./ch3b.md)
+[< Chapter 2](./ch2.md) | Chapter 3a | [Chapter 3b >](./ch3b.md)
 
 _(This version of the guide is deployed at https://tom-mount-nuxt-middleware-ch3a.layer0-limelight.link/)_
 
